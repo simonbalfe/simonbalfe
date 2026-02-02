@@ -30,11 +30,11 @@
 
 ## ✍️ Recent Blog Posts
 
-- [Why Go Changed How I Build Backend Services](https://simonbalfe.dev/blog/blog-1)
-- [Designing Microservices That Actually Scale](https://simonbalfe.dev/blog/blog-2)
-- [Kubernetes in Production: What They Don't Tell You](https://simonbalfe.dev/blog/blog-3)
-- [Docker Multi-Stage Builds: Production-Ready Images](https://simonbalfe.dev/blog/blog-4)
-- [Infrastructure as Code: Terraform Best Practices](https://simonbalfe.dev/blog/blog-5)
+- [Why Go Changed How I Build Backend Services](https://simonbalfe.com/blog/blog-1)
+- [Designing Microservices That Actually Scale](https://simonbalfe.com/blog/blog-2)
+- [Kubernetes in Production: What They Don't Tell You](https://simonbalfe.com/blog/blog-3)
+- [Docker Multi-Stage Builds: Production-Ready Images](https://simonbalfe.com/blog/blog-4)
+- [Infrastructure as Code: Terraform Best Practices](https://simonbalfe.com/blog/blog-5)
 
 ## 📫 Connect
 
