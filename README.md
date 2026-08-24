@@ -1,43 +1,15 @@
-# Hi, I'm Simon 👋
+# Hi, I’m Simon 👋
 
-**Software Engineer** building scalable systems, clean architecture, and sharing lessons from the startup trenches.
+I build production AI automation for B2B: lead generation, outreach, and scalable systems that create real revenue.
 
-## 💼 Experience
+## Links
 
-**Software Engineer** @ Darktrace *(2023 - Present)*
-> Building cybersecurity solutions and threat detection systems.
+- [Personal site](https://simonbalfe.com)
+- [Blog](https://simonbalfe.com/blog)
+- [LinkedIn](https://www.linkedin.com/in/simon-b-49a4321b8/)
+- [X](https://x.com/simonbalfe)
 
-**Software Engineer in Test** @ PlayStation *(2021 - 2023)*
-> Developing test automation frameworks and ensuring software quality.
+## Recent writing
 
-## 🔧 What I Do
-
-- **MVP Development** — Turn concepts into working products fast
-- **Agentic LLM Workflows** — Custom AI agents that automate repetitive tasks
-- **Cloud Infrastructure** — Scalable systems that grow with your business
-- **DevOps** — Automated deployments that ship updates in minutes
-- **System Design** — Architecture that handles 10x your current load
-
-## 🛠 Tech Stack
-
-**Languages:** TypeScript · JavaScript · Python · C++ · Swift
-
-**Frontend:** React · Next.js · Astro · Tailwind CSS
-
-**Backend:** Node.js · Express · PostgreSQL
-
-**DevOps & Tools:** Docker · Cloudflare · Vercel · Linux · Git · GitHub · Figma
-
-## ✍️ Recent Blog Posts
-
-- [Why Go Changed How I Build Backend Services](https://simonbalfe.com/blog/blog-1)
-- [Designing Microservices That Actually Scale](https://simonbalfe.com/blog/blog-2)
-- [Kubernetes in Production: What They Don't Tell You](https://simonbalfe.com/blog/blog-3)
-- [Docker Multi-Stage Builds: Production-Ready Images](https://simonbalfe.com/blog/blog-4)
-- [Infrastructure as Code: Terraform Best Practices](https://simonbalfe.com/blog/blog-5)
-
-## 📫 Connect
-
-[![Website](https://img.shields.io/badge/Website-simonbalfe.dev-000?style=flat-square)](https://simonbalfe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-simon--balfe-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/simon-balfe-49a4321b8/)
-[![Twitter](https://img.shields.io/badge/Twitter-@simonbalfe-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/simonbalfe)
+- [The Argument That Made Me Quit MCPs (Mostly)](https://simonbalfe.com/blog/cli-vs-mcp)
+- [How a LinkedIn Connection Request Actually Gets Automated](https://simonbalfe.com/blog/connection-request-101)
